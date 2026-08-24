@@ -1,5 +1,5 @@
-package tests;
-import data.structures.NodeList;
+package data.structures.nodelist.tests;
+import data.structures.nodelist.NodeList;
 
 public class TestNodeList {
     public static NodeList<Integer> head = new NodeList<>();

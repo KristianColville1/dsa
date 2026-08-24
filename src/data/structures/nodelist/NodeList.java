@@ -1,4 +1,4 @@
-package data.structures;
+package data.structures.nodelist;
 
 /**
  * Custom generic singly linked list
