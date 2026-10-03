@@ -1,4 +1,4 @@
-package data.structures.array;
+package data.structures.linear.array;
 
 public class Main {
 
